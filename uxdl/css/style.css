@@ -1,0 +1,1832 @@
+.mediaViewInfo {
+	--web-view-name: Landing- UXDL;
+	--web-view-id: Landing-_UXDL;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Landing-_UXDL;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Landing-_UXDL {
+	position: absolute;
+	width: 1343px;
+	height: 3742px;
+	background-color: rgba(53,54,58,1);
+	overflow: hidden;
+	--web-view-name: Landing- UXDL;
+	--web-view-id: Landing-_UXDL;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+#Path_217 {
+	opacity: 0.03;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_217 {
+	overflow: visible;
+	position: absolute;
+	width: 1343px;
+	height: 794.808px;
+	left: 224px;
+	top: 834.09px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#UXDL {
+	position: absolute;
+	width: 90px;
+	height: 33.921px;
+	left: 142px;
+	top: 23px;
+	overflow: visible;
+}
+#Path_215 {
+	fill: transparent;
+	stroke: rgba(53,54,58,1);
+	stroke-width: 30px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_215 {
+	overflow: visible;
+	position: absolute;
+	width: 248.919px;
+	height: 497.838px;
+	left: 391.616px;
+	top: 1076.211px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#thumbnail_IMG_4043-removebg {
+	position: absolute;
+	width: 532.14px;
+	height: 709.521px;
+	left: 106.641px;
+	top: 886.378px;
+	overflow: visible;
+}
+#play_button {
+	position: absolute;
+	width: 113px;
+	height: 113px;
+	left: 330px;
+	top: 1254px;
+	overflow: visible;
+}
+#Ellipse_1 {
+	fill: rgba(23,73,212,1);
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	height: 69px;
+	left: 22px;
+	top: 22px;
+}
+#Icon_awesome-play {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-play {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 18.287px;
+	left: 51.5px;
+	top: 47.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_4 {
+	opacity: 0.29;
+	fill: transparent;
+	stroke: rgba(23,73,212,1);
+	stroke-width: 9px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	height: 113px;
+	left: 0px;
+	top: 0px;
+}
+#Group_86 {
+	position: absolute;
+	width: 536px;
+	height: 230px;
+	left: 668px;
+	top: 1084px;
+	overflow: visible;
+}
+#____ {
+	left: 126px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 411px;
+	white-space: nowrap;
+	line-height: 60px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Group_80 {
+	position: absolute;
+	width: 391px;
+	height: 31px;
+	left: 145px;
+	top: 81px;
+	overflow: visible;
+}
+#_____r {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 365px;
+	height: 31px;
+	line-height: 60px;
+	margin-top: -17px;
+	text-align: right;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(213,213,213,1);
+}
+#Ellipse_2 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 14px;
+	height: 14px;
+	left: 377px;
+	top: 9px;
+}
+#Group_81 {
+	position: absolute;
+	width: 391px;
+	height: 31px;
+	left: 145px;
+	top: 140px;
+	overflow: visible;
+}
+#_____ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 365px;
+	height: 31px;
+	line-height: 60px;
+	margin-top: -17px;
+	text-align: right;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(213,213,213,1);
+}
+#Ellipse_2_v {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2_v {
+	position: absolute;
+	overflow: visible;
+	width: 14px;
+	height: 14px;
+	left: 377px;
+	top: 9px;
+}
+#Group_82 {
+	position: absolute;
+	width: 536px;
+	height: 31px;
+	left: 0px;
+	top: 199px;
+	overflow: visible;
+}
+#______x {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 510px;
+	height: 31px;
+	line-height: 60px;
+	margin-top: -17px;
+	text-align: right;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(213,213,213,1);
+}
+#Ellipse_2_y {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2_y {
+	position: absolute;
+	overflow: visible;
+	width: 14px;
+	height: 14px;
+	left: 522px;
+	top: 9px;
+}
+#Icon_material-mail-outline {
+	opacity: 0.46;
+	fill: rgba(255,255,255,1);
+}
+.Icon_material-mail-outline {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 12.8px;
+	left: 1054px;
+	top: 29px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_243 {
+	fill: rgba(255,255,255,1);
+}
+.Path_243 {
+	overflow: visible;
+	position: absolute;
+	width: 125.375px;
+	height: 13.313px;
+	left: 1076.211px;
+	top: 28.156px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mustafa_Reda {
+	left: 137px;
+	top: 1064px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	line-height: 52px;
+	margin-top: -17px;
+	text-align: right;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#CEO__FOUNDER_UXDL {
+	left: 139px;
+	top: 1088px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	line-height: 52px;
+	margin-top: -20.5px;
+	text-align: right;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(116,116,116,1);
+}
+#Icon_feather-arrow-down-circle {
+	position: absolute;
+	width: 12px;
+	height: 6px;
+	left: 666px;
+	top: 611px;
+	overflow: visible;
+}
+#Path_239 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_239 {
+	overflow: visible;
+	position: absolute;
+	width: 16.243px;
+	height: 9.621px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_240 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_240 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	left: 6px;
+	top: 6px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_2 {
+	opacity: 0.03;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	height: 19px;
+	left: 96px;
+	top: 1549px;
+}
+#Rectangle_21 {
+	opacity: 0.03;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_21 {
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	height: 19px;
+	left: 1081px;
+	top: 2129px;
+}
+#Rectangle_24 {
+	opacity: 0.03;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	height: 19px;
+	left: 272px;
+	top: 2977px;
+}
+#Rectangle_6 {
+	opacity: 0.03;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	height: 19px;
+	left: 404px;
+	top: 825px;
+}
+#Rectangle_3 {
+	opacity: 0.03;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	height: 19px;
+	left: 57px;
+	top: 1525px;
+}
+#Rectangle_20 {
+	opacity: 0.03;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_20 {
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	height: 19px;
+	left: 1042px;
+	top: 2105px;
+}
+#Rectangle_23 {
+	opacity: 0.03;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	height: 19px;
+	left: 233px;
+	top: 2953px;
+}
+#Rectangle_5 {
+	opacity: 0.03;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	height: 19px;
+	left: 365px;
+	top: 801px;
+}
+#Rectangle_4 {
+	opacity: 0.03;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	height: 19px;
+	left: 7px;
+	top: 1573px;
+}
+#Rectangle_22 {
+	opacity: 0.03;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_22 {
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	height: 19px;
+	left: 992px;
+	top: 2153px;
+}
+#Rectangle_25 {
+	opacity: 0.03;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	height: 19px;
+	left: 183px;
+	top: 3001px;
+}
+#Rectangle_7 {
+	opacity: 0.03;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	height: 19px;
+	left: 315px;
+	top: 849px;
+}
+#_UXDL__2021 {
+	left: 158px;
+	top: 3682px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	line-height: 60px;
+	margin-top: -22px;
+	text-align: right;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#fbcomuxdleg {
+	left: 1108px;
+	top: 3682px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	line-height: 60px;
+	margin-top: -22px;
+	text-align: right;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Group_88 {
+	position: absolute;
+	width: 440px;
+	height: 239.937px;
+	left: 764px;
+	top: 263px;
+	overflow: visible;
+}
+#Path_241 {
+	fill: rgba(255,255,255,1);
+}
+.Path_241 {
+	overflow: visible;
+	position: absolute;
+	width: 440px;
+	height: 118.135px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_7__1 {
+	position: absolute;
+	width: 254px;
+	height: 72px;
+	left: 185px;
+	top: 167.937px;
+	overflow: visible;
+}
+#Rectangle_10 {
+	fill: rgba(23,73,212,1);
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 254px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#Group_87 {
+	position: absolute;
+	width: 134.499px;
+	height: 29px;
+	left: 60px;
+	top: 22px;
+	overflow: visible;
+}
+#_ {
+	left: 36.499px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#Icon_awesome-book-open {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-book-open {
+	overflow: visible;
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#sig {
+	position: absolute;
+	width: 54px;
+	height: 50px;
+	left: 165px;
+	top: 1009px;
+	overflow: visible;
+}
+#__ {
+	left: 428.5px;
+	top: 1745px;
+	position: absolute;
+	overflow: visible;
+	width: 487px;
+	white-space: nowrap;
+	line-height: 60px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#__bt {
+	left: 531.5px;
+	top: 2642px;
+	position: absolute;
+	overflow: visible;
+	width: 281px;
+	white-space: nowrap;
+	line-height: 60px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Component_12__1 {
+	position: absolute;
+	width: 524px;
+	height: 632px;
+	left: 679px;
+	top: 1919px;
+	overflow: visible;
+}
+#Component_9__1 {
+	position: absolute;
+	width: 524px;
+	height: 632px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_11 {
+	fill: rgba(59,60,64,1);
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 524px;
+	height: 632px;
+	left: 0px;
+	top: 0px;
+}
+#Group_89 {
+	position: absolute;
+	width: 385px;
+	height: 75px;
+	left: 70px;
+	top: 62px;
+	overflow: visible;
+}
+#UI_Designer_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(112,112,112,1);
+}
+#___bz {
+	left: 0px;
+	top: 32px;
+	position: absolute;
+	overflow: visible;
+	width: 386px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(255,255,255,1);
+}
+#___________________ {
+	left: 67px;
+	top: 163px;
+	position: absolute;
+	overflow: visible;
+	width: 389px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: right;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(145,145,145,1);
+}
+#Group_94 {
+	position: absolute;
+	width: 297.646px;
+	height: 202.835px;
+	left: 105.897px;
+	top: 237.924px;
+	overflow: visible;
+}
+#Path_989 {
+	fill: rgba(63,61,86,1);
+}
+.Path_989 {
+	overflow: visible;
+	position: absolute;
+	width: 12.781px;
+	height: 29.512px;
+	left: 32.529px;
+	top: 148.513px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_990 {
+	fill: rgba(108,99,255,1);
+}
+.Path_990 {
+	overflow: visible;
+	position: absolute;
+	width: 21.706px;
+	height: 21.445px;
+	left: 34.773px;
+	top: 156.576px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_14 {
+	fill: rgba(108,99,255,1);
+}
+.Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 32.759px;
+	height: 13.94px;
+	left: 20.851px;
+	top: 175.639px;
+}
+#Group_91 {
+	opacity: 0.7;
+	position: absolute;
+	width: 31.645px;
+	height: 28.129px;
+	left: 249.262px;
+	top: 161.712px;
+	overflow: visible;
+}
+#Path_991_b {
+	fill: url(#Path_991_b);
+}
+.Path_991_b {
+	overflow: visible;
+	position: absolute;
+	width: 31.645px;
+	height: 28.129px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_992 {
+	fill: rgba(108,99,255,1);
+}
+.Path_992 {
+	overflow: visible;
+	position: absolute;
+	width: 11.924px;
+	height: 11.924px;
+	left: 267.608px;
+	top: 167.521px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_993 {
+	opacity: 0.1;
+	fill: rgba(0,0,0,1);
+}
+.Path_993 {
+	overflow: visible;
+	position: absolute;
+	width: 11.924px;
+	height: 11.924px;
+	left: 267.608px;
+	top: 167.521px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_994 {
+	fill: rgba(108,99,255,1);
+}
+.Path_994 {
+	overflow: visible;
+	position: absolute;
+	width: 22.931px;
+	height: 25.683px;
+	left: 250.638px;
+	top: 162.935px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_15 {
+	fill: rgba(224,224,224,1);
+}
+.Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 297.646px;
+	height: 10.09px;
+	left: 0px;
+	top: 188.617px;
+}
+#Group_92 {
+	opacity: 0.7;
+	position: absolute;
+	width: 107.836px;
+	height: 162.729px;
+	left: 95.105px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_995_ce {
+	fill: url(#Path_995_ce);
+}
+.Path_995_ce {
+	overflow: visible;
+	position: absolute;
+	width: 107.836px;
+	height: 162.729px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_996 {
+	fill: rgba(108,99,255,1);
+}
+.Path_996 {
+	overflow: visible;
+	position: absolute;
+	width: 104.025px;
+	height: 61.664px;
+	left: 97.01px;
+	top: 98.19px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_5 {
+	fill: rgba(114,53,28,1);
+}
+.Ellipse_5 {
+	position: absolute;
+	overflow: visible;
+	width: 71.229px;
+	height: 71.229px;
+	left: 113.542px;
+	top: 14.787px;
+}
+#Path_997 {
+	opacity: 0.1;
+	fill: rgba(0,0,0,1);
+}
+.Path_997 {
+	overflow: visible;
+	position: absolute;
+	width: 22.82px;
+	height: 29.666px;
+	left: 137.661px;
+	top: 80.065px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_998 {
+	fill: rgba(253,165,125,1);
+}
+.Path_998 {
+	overflow: visible;
+	position: absolute;
+	width: 22.82px;
+	height: 29.666px;
+	left: 137.662px;
+	top: 79.22px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_999 {
+	opacity: 0.1;
+	fill: rgba(0,0,0,1);
+}
+.Path_999 {
+	overflow: visible;
+	position: absolute;
+	width: 22.82px;
+	height: 4.818px;
+	left: 137.704px;
+	top: 85.941px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_6 {
+	fill: rgba(253,165,125,1);
+}
+.Ellipse_6 {
+	position: absolute;
+	overflow: visible;
+	width: 65.418px;
+	height: 65.418px;
+	left: 116.447px;
+	top: 24.792px;
+}
+#Path_1000 {
+	opacity: 0.1;
+	fill: rgba(0,0,0,1);
+}
+.Path_1000 {
+	overflow: visible;
+	position: absolute;
+	width: 52.67px;
+	height: 25.033px;
+	left: 125.858px;
+	top: 19.519px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1001 {
+	fill: rgba(114,53,28,1);
+}
+.Path_1001 {
+	overflow: visible;
+	position: absolute;
+	width: 52.67px;
+	height: 25.033px;
+	left: 125.858px;
+	top: 19.107px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1002 {
+	fill: rgba(114,53,28,1);
+}
+.Path_1002 {
+	overflow: visible;
+	position: absolute;
+	width: 48.11px;
+	height: 33.8px;
+	left: 125.053px;
+	top: 2.875px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1003 {
+	fill: rgba(114,53,28,1);
+}
+.Path_1003 {
+	overflow: visible;
+	position: absolute;
+	width: 65.409px;
+	height: 33.129px;
+	left: 116.461px;
+	top: 57.787px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_7 {
+	fill: rgba(253,165,125,1);
+}
+.Ellipse_7 {
+	position: absolute;
+	overflow: visible;
+	width: 6.085px;
+	height: 11.41px;
+	left: 113.392px;
+	top: 51.765px;
+}
+#Ellipse_8 {
+	fill: rgba(253,165,125,1);
+}
+.Ellipse_8 {
+	position: absolute;
+	overflow: visible;
+	width: 6.085px;
+	height: 11.41px;
+	left: 178.818px;
+	top: 51.765px;
+}
+#Group_93 {
+	opacity: 0.7;
+	position: absolute;
+	width: 126.58px;
+	height: 72.89px;
+	left: 85.533px;
+	top: 115.727px;
+	overflow: visible;
+}
+#Rectangle_16_ct {
+	fill: url(#Rectangle_16_ct);
+}
+.Rectangle_16_ct {
+	position: absolute;
+	overflow: visible;
+	width: 126.58px;
+	height: 72.89px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_17 {
+	fill: rgba(83,84,97,1);
+}
+.Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 121.994px;
+	height: 71.545px;
+	left: 87.826px;
+	top: 117.072px;
+}
+#Ellipse_9 {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_9 {
+	position: absolute;
+	overflow: visible;
+	width: 8.255px;
+	height: 8.255px;
+	left: 144.696px;
+	top: 148.717px;
+}
+#Rectangle_18 {
+	fill: rgba(224,224,224,1);
+}
+.Rectangle_18 {
+	position: absolute;
+	overflow: visible;
+	width: 272.422px;
+	height: 4.128px;
+	left: 12.612px;
+	top: 198.708px;
+}
+#Rectangle_19 {
+	opacity: 0.1;
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_19 {
+	position: absolute;
+	overflow: visible;
+	width: 272.422px;
+	height: 1.376px;
+	left: 12.612px;
+	top: 198.708px;
+}
+#Path_1004 {
+	opacity: 0.1;
+	fill: rgba(0,0,0,1);
+}
+.Path_1004 {
+	overflow: visible;
+	position: absolute;
+	width: 6.765px;
+	height: 25.683px;
+	left: 264.97px;
+	top: 162.935px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1005 {
+	fill: rgba(238,238,238,1);
+}
+.Path_1005 {
+	overflow: visible;
+	position: absolute;
+	width: 19.453px;
+	height: 16.772px;
+	left: 254.064px;
+	top: 145.251px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_11__1 {
+	position: absolute;
+	width: 385px;
+	height: 72px;
+	left: 67px;
+	top: 494px;
+	overflow: visible;
+}
+#__c {
+	left: 127px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#Component_10__2 {
+	position: absolute;
+	width: 385px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_13 {
+	fill: rgba(23,73,212,1);
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 385px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#__da {
+	left: 127px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#Component_13__1 {
+	position: absolute;
+	width: 524px;
+	height: 632px;
+	left: 139px;
+	top: 1919px;
+	overflow: visible;
+}
+#Rectangle_12 {
+	fill: rgba(59,60,64,1);
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 524px;
+	height: 632px;
+	left: 0px;
+	top: 0px;
+}
+#Group_90 {
+	position: absolute;
+	width: 358px;
+	height: 73px;
+	left: 83px;
+	top: 64px;
+	overflow: visible;
+}
+#UX_Designer_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(112,112,112,1);
+}
+#___c {
+	left: 0px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 359px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(255,255,255,1);
+}
+#____________________da {
+	left: 68px;
+	top: 163px;
+	position: absolute;
+	overflow: visible;
+	width: 389px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: right;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(145,145,145,1);
+}
+#Group_95 {
+	position: absolute;
+	width: 417.89px;
+	height: 156.245px;
+	left: 47.055px;
+	top: 272.647px;
+	overflow: visible;
+}
+#Path_1049 {
+	fill: rgba(63,61,86,1);
+}
+.Path_1049 {
+	overflow: visible;
+	position: absolute;
+	width: 417.89px;
+	height: 1px;
+	left: 0px;
+	top: 156.244px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1020 {
+	fill: rgba(255,101,132,1);
+}
+.Path_1020 {
+	overflow: visible;
+	position: absolute;
+	width: 32.751px;
+	height: 37.147px;
+	left: 27.308px;
+	top: 12.086px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1021 {
+	fill: rgba(108,99,255,1);
+}
+.Path_1021 {
+	overflow: visible;
+	position: absolute;
+	width: 32.751px;
+	height: 37.147px;
+	left: 87.032px;
+	top: 27.91px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1022 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1022 {
+	overflow: visible;
+	position: absolute;
+	width: 77.309px;
+	height: 120.892px;
+	left: 155.914px;
+	top: 6.858px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1023 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1023 {
+	overflow: visible;
+	position: absolute;
+	width: 77.309px;
+	height: 120.892px;
+	left: 304.514px;
+	top: 6.858px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1024 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1024 {
+	overflow: visible;
+	position: absolute;
+	width: 17.153px;
+	height: 2.263px;
+	left: 165.617px;
+	top: 14.121px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1025 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1025 {
+	overflow: visible;
+	position: absolute;
+	width: 16.291px;
+	height: 2.798px;
+	left: 165.617px;
+	top: 18.692px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1026 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1026 {
+	overflow: visible;
+	position: absolute;
+	width: 15.87px;
+	height: 2.263px;
+	left: 165.617px;
+	top: 23.53px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1027 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1027 {
+	overflow: visible;
+	position: absolute;
+	width: 12.058px;
+	height: 11.185px;
+	left: 205.64px;
+	top: 14.837px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1028 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1028 {
+	overflow: visible;
+	position: absolute;
+	width: 17.153px;
+	height: 2.263px;
+	left: 314.216px;
+	top: 14.121px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1029 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1029 {
+	overflow: visible;
+	position: absolute;
+	width: 16.291px;
+	height: 2.798px;
+	left: 314.217px;
+	top: 18.692px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1030 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1030 {
+	overflow: visible;
+	position: absolute;
+	width: 15.87px;
+	height: 2.263px;
+	left: 314.216px;
+	top: 23.53px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1031 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1031 {
+	overflow: visible;
+	position: absolute;
+	width: 12.058px;
+	height: 11.185px;
+	left: 354.242px;
+	top: 14.837px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1032 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1032 {
+	overflow: visible;
+	position: absolute;
+	width: 51.563px;
+	height: 32.653px;
+	left: 168.61px;
+	top: 34.415px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1033 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1033 {
+	overflow: visible;
+	position: absolute;
+	width: 41.386px;
+	height: 23.575px;
+	left: 173.621px;
+	top: 37.179px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1034 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1034 {
+	overflow: visible;
+	position: absolute;
+	width: 45.134px;
+	height: 29.929px;
+	left: 175.26px;
+	top: 35.3px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1035 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1035 {
+	overflow: visible;
+	position: absolute;
+	width: 51.562px;
+	height: 32.653px;
+	left: 317.21px;
+	top: 34.415px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1036 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1036 {
+	overflow: visible;
+	position: absolute;
+	width: 41.386px;
+	height: 23.575px;
+	left: 322.221px;
+	top: 37.179px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1037 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1037 {
+	overflow: visible;
+	position: absolute;
+	width: 45.134px;
+	height: 29.929px;
+	left: 323.862px;
+	top: 35.3px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1038 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1038 {
+	overflow: visible;
+	position: absolute;
+	width: 51.562px;
+	height: 32.653px;
+	left: 317.21px;
+	top: 79.674px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1039 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1039 {
+	overflow: visible;
+	position: absolute;
+	width: 41.386px;
+	height: 23.575px;
+	left: 322.221px;
+	top: 82.438px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1040 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1040 {
+	overflow: visible;
+	position: absolute;
+	width: 45.134px;
+	height: 29.929px;
+	left: 323.862px;
+	top: 80.559px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1041 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1041 {
+	overflow: visible;
+	position: absolute;
+	width: 47.947px;
+	height: 2.584px;
+	left: 172.887px;
+	top: 79.31px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1042 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1042 {
+	overflow: visible;
+	position: absolute;
+	width: 49.229px;
+	height: 2.613px;
+	left: 174.171px;
+	top: 89.55px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1043 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1043 {
+	overflow: visible;
+	position: absolute;
+	width: 46.659px;
+	height: 4.331px;
+	left: 172.456px;
+	top: 98.763px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1044 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1044 {
+	overflow: visible;
+	position: absolute;
+	width: 44.522px;
+	height: 2.263px;
+	left: 241.737px;
+	top: 68.86px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1045 {
+	fill: rgba(241,241,241,1);
+}
+.Path_1045 {
+	overflow: visible;
+	position: absolute;
+	width: 16.752px;
+	height: 21.863px;
+	left: 279.994px;
+	top: 56.278px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1046 {
+	fill: rgba(108,99,255,1);
+}
+.Path_1046 {
+	overflow: visible;
+	position: absolute;
+	width: 32.751px;
+	height: 37.147px;
+	left: 180.567px;
+	top: 109.375px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1047 {
+	fill: rgba(108,99,255,1);
+}
+.Path_1047 {
+	overflow: visible;
+	position: absolute;
+	width: 32.751px;
+	height: 37.148px;
+	left: 50.825px;
+	top: 81.466px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1048 {
+	fill: rgba(108,99,255,1);
+}
+.Path_1048 {
+	overflow: visible;
+	position: absolute;
+	width: 32.751px;
+	height: 37.147px;
+	left: 247.701px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_11__2 {
+	position: absolute;
+	width: 385px;
+	height: 72px;
+	left: 70px;
+	top: 494px;
+	overflow: visible;
+}
+#__d {
+	left: 127px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#Component_10__2_d {
+	position: absolute;
+	width: 385px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_13_d {
+	fill: rgba(23,73,212,1);
+}
+.Rectangle_13_d {
+	position: absolute;
+	overflow: visible;
+	width: 385px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#__ea {
+	left: 127px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_26 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_26 {
+	position: absolute;
+	overflow: visible;
+	width: 884px;
+	height: 79px;
+	left: 229px;
+	top: 2763px;
+}
+#Rectangle_27 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_27 {
+	position: absolute;
+	overflow: visible;
+	width: 884px;
+	height: 79px;
+	left: 229px;
+	top: 2842px;
+}
+#Rectangle_28 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_28 {
+	position: absolute;
+	overflow: visible;
+	width: 884px;
+	height: 79px;
+	left: 229px;
+	top: 2921px;
+}
+#_____ee {
+	left: 715px;
+	top: 2787px;
+	position: absolute;
+	overflow: visible;
+	width: 340px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(53,54,58,1);
+}
+#_____ef {
+	left: 715px;
+	top: 2866px;
+	position: absolute;
+	overflow: visible;
+	width: 340px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(53,54,58,1);
+}
+#_____eg {
+	left: 715px;
+	top: 2945px;
+	position: absolute;
+	overflow: visible;
+	width: 340px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: SF Pro AR Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(53,54,58,1);
+}
