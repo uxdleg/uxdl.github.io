@@ -1,0 +1,65 @@
+body{
+    background-color: #35363A;
+}
+.mail{
+    color: white;
+    text-align: right;
+    width: 100%;
+}
+
+.wrapper{
+    width: 100%;
+    height: 60px;
+    background: #3B3C40;
+    position: fixed;
+    z-index: 1;
+}
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    opacity: 0.1;
+  }
+  
+.hero{
+  position: fixed;
+  margin-top: 9%;
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+  z-index: 1;
+    
+   
+}
+.hero h1{
+    text-align: right;
+    color: white;
+    font-size: 119.21px;
+    font-family: 'SF Pro AR Display';
+}
+.hero p{
+    text-align: right;
+    color: rgb(230, 230, 230);
+    font-size: 39.06px;
+    font-family: 'SF Pro AR Display';
+}
+.hero .CTA {
+width: 254px;
+height: 72px;
+border-radius: 11px;
+background: #1749d4;
+text-align: center;
+font-size: 25.00px;
+line-height: 72px;
+font-family: 'SF Pro AR Display';
+float: right;
+
+}
+a{
+    color: white;
+}
+a:hover{
+    color: white;
+}
